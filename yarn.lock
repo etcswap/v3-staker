@@ -1286,11 +1286,11 @@
 
 "@uniswap/v3-core@git+https://github.com/etcswap/v3-core.git#etcswap":
   version "1.0.1"
-  resolved "git+https://github.com/etcswap/v3-core.git#d704d52586f3cb8df641b4f5ba0ebba00bf3130f"
+  resolved "git+https://github.com/etcswap/v3-core.git#9200d0cbd1aca285004f53811c29674bc9c5e798"
 
 "@uniswap/v3-periphery@git+https://github.com/etcswap/v3-periphery.git#etcswap":
   version "1.4.4"
-  resolved "git+https://github.com/etcswap/v3-periphery.git#2989f69063736462d87bd9d3ba72a45b68054247"
+  resolved "git+https://github.com/etcswap/v3-periphery.git#341ddb195398b121944a1d7e358e9ae99fa6d27e"
   dependencies:
     "@openzeppelin/contracts" "3.4.2-solc-0.7"
     "@uniswap/lib" "^4.0.1-alpha"
